@@ -1,13 +1,13 @@
 {
   "users": {
-    "918798308154@s.whatsapp.net": {
+    "601131288138@s.whatsapp.net": {
       "afkTime": -1,
-      "afkReason": "",
+      "afkReason": "Want to do something",
       "limit": "Infinity"
     },
-    "37122233677@s.whatsapp.net": {
+    "601131288138@s.whatsapp.net": {
       "afkTime": -1,
-      "afkReason": "",
+      "afkReason": "Want to do something.",
       "limit": 12
     }
   },
@@ -30,9 +30,9 @@
     "tebakan": []
   },
   "settings": {
-    "918798308154@s.whatsapp.net": {
+    "601131288138@s.whatsapp.net": {
       "status": 0,
-      "autobio": false,
+      "autobio": true,
       "templateImage": false,
       "templateVideo": false,
       "templateGif": false,
