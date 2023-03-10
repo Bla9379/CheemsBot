@@ -58,10 +58,10 @@ global.vcardowner = ['601131288138'] //ur owner number
 global.ownername = "Ako" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Malaysia,Sabah" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
+global.owner = ['601131288138']
 global.ownertag = '601131288138' //ur tag number
 global.botname = '✨Kikitho/Kiki✨' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
